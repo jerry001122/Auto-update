@@ -1,0 +1,4 @@
+{
+  "search": "ff ff ff ff 0e cc 03 00 fa cd 03 00 ff ff ff ff 08 00 00 00 00 00 60 40 cd cc 8c 3f 8f c2 f5 3c cd cc cc 3d 07 00 00 00 00 00 00 00",
+  "replace": "ff ff ff ff 0e cc 03 00 fa cd 03 00 ff ff ff ff 08 00 00 00 00 00 60 40 cd cc 8c 3f 8f c2 f5 3c cd cc cc 3d 07 00 00 00 00 00 f0 ff"
+}
